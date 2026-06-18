@@ -1,0 +1,5 @@
+fps_limit:25
+render_scale:0.5
+show_clouds:false
+show_grass:false
+shader:off
